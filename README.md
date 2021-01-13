@@ -4,7 +4,7 @@
 
 ## Requires
 
-1. [dpemotes](https://packagecontrol.io/)
+1. [dpemotes](https://github.com/andristum/dpemotes)
 2. [esx_vehiclelock](https://github.com/andristum/dpemotes)
 3. gcphone avec sim
 
